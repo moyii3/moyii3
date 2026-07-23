@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+我目前是一名大二学生，还只是个小白中的小白🌱，想走的方向是游戏开发😄
 <!--
 **moyii3/moyii3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
